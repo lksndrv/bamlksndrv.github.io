@@ -143,7 +143,7 @@ img {
 
 .section2 {
   margin-top: 20px;
-  background: url(./imgs/Rectanglemain.png);
+  background: url(../imgs/Rectanglemain.png);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 755px;
